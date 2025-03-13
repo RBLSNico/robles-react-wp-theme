@@ -5,5 +5,7 @@ This repository contains a complete WordPress installation with the custom theme
 Repository Contents
 
 ✅ Complete WordPress core files
+
 ✅ Robles Rotapix Test Theme (installed and activated)
+
 ✅ Sample content for demonstration purposes
