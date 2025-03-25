@@ -1,7 +1,7 @@
 ## Custom WordPress Theme Repository
 **Overview**
 
-This repository contains a standalone WordPress theme developed as part of my trial task application. The custom theme is called **"Robles Rotapix Test"** installed and activated.
+The custom theme is called **"Robles Rotapix Test"** installed and activated.
 Repository Contents
 
 ✅ React.js Support – Integrated React.js for enhanced UI components and dynamic rendering.
